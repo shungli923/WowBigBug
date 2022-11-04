@@ -1,7 +1,6 @@
 # 组合攻击通过Edge浏览器进行RCE
 
-> 本文来自微软安全研究员（Abdullahman Alqabandi）的一篇文章，这篇文章介绍了作者是如何通过漏洞表象，思考漏洞成因，进而根据原因找与成因相关的其他漏洞，最终将多个漏洞组合，从而达到 RCE 目的。
->
+> 本文来自微软安全研究员（Abdullahman Alqabandi）
 > 原文链接：https://leucosite.com/Microsoft-Edge-RCE/
 
 ## 应用内启动外部程序
