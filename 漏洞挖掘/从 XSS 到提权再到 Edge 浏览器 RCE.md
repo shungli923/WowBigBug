@@ -1,6 +1,6 @@
 
 
-# Edge浏览器-从XSS到提权从而RCE
+# 从 XSS 到提权再到 Edge 浏览器 RCE
 
 > 这是白帽子（Abdullahman Alqabandi）的一篇文章
 >
