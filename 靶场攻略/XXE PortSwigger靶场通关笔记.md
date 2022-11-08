@@ -2,7 +2,7 @@
 
 > 靶场链接：https://portswigger.net/web-security/all-labs
 >
-> 该靶场通关笔记仅仅只是 Port Swigger 靶场的 XXE 部分通关记录，相关的漏洞原理我已全部整理出来放在 [Github链接](https://github.com/shungli923/WowBigBug/blob/main/%E5%9F%BA%E7%A1%80%E6%BC%8F%E6%B4%9E/XXE.md) 处。若是对实验过程中涉及到的原理不明白的师傅们欢迎点击链接自助学习。
+> 该靶场通关笔记仅仅只是 Port Swigger 靶场的 XXE 部分通关记录，相关的漏洞原理我已全部整理出来放在 [XML外部实体注入（XXE）攻击方式汇总](https://github.com/shungli923/WowBigBug/blob/main/%E5%9F%BA%E7%A1%80%E6%BC%8F%E6%B4%9E/XXE.md) 处。若是对实验过程中涉及到的原理不明白的师傅们欢迎点击链接自助学习。
 
 ## Lab: Exploiting XXE using external entities to retrieve files
 
