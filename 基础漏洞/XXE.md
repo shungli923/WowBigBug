@@ -1,4 +1,5 @@
 # XML外部实体注入（XXE）攻击方式汇总 
+> 关于 XXE 攻击方式汇总的相应靶场通关记录也已完成，靶场使用的是 Port Swigger 靶场，若有需要，欢迎师傅们前往学习，[XXE 靶场通关笔记](https://github.com/shungli923/WowBigBug/blob/main/%E9%9D%B6%E5%9C%BA%E6%94%BB%E7%95%A5/XXE%20PortSwigger%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E7%AC%94%E8%AE%B0.md)
 
 ## XML 基础
 
