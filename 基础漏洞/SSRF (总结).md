@@ -1,4 +1,5 @@
 # SSRF攻击方式汇总
+> 关于SSRF的靶场通关笔记也以及完成，详见链接：[SSRF PortSwigger靶场通关笔记](https://github.com/shungli923/WowBigBug/blob/main/%E9%9D%B6%E5%9C%BA%E6%94%BB%E7%95%A5/SSRF%20PortSwigger%E9%9D%B6%E5%9C%BA%E9%80%9A%E5%85%B3%E7%AC%94%E8%AE%B0.md)
 
 ## 原理
 
