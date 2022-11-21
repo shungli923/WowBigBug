@@ -155,4 +155,4 @@ Blind SSRF的发现方式通常都是将自己vps的地址放在可能存在攻�
 
 ## Blind SSRF打出危害
 
-由于Blind SSRF没有回显，因此相关的可以利用的价值极低，不过最近我发现了一个技术叫shellshock攻击的技术可以通过Blind SSRF拿出数据，还在研究，研究透彻了会发出。
+由于Blind SSRF没有回显，因此相关的可以利用的价值极低，不过最近我发现了一个技术叫shellshock攻击的技术可以通过Blind SSRF拿出数据，见 [链接](https://github.com/shungli923/WowBigBug/blob/main/%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6/ShellShock%20%E6%BC%8F%E6%B4%9E%E7%AE%80%E8%BF%B0.md)。
