@@ -8,10 +8,10 @@
        - 【漏洞复现】：历史漏洞复现记录
        
 
-欢迎师傅关注本项目同步公众号：
+欢迎师傅关注本项目同步公众号【WowBigBug】：
 
 ![](https://github.com/shungli923/PicGoImg/blob/master/VXgzh%EF%BC%9AWowBigBug.png)
 
-欢迎师傅关注此项目关联知识星球：
+欢迎师傅关注此项目关联知识星球【WowBigBug】：
 
 ![](https://github.com/shungli923/PicGoImg/blob/master/joinWowbigBug.png)
